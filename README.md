@@ -1,7 +1,20 @@
 ![Lull@ waneella](https://user-images.githubusercontent.com/123428369/221057193-582ef11e-41b1-416f-8b29-63113e53f7f0.gif)
 
 
-### Hi there 👋
+# 📖 About Me
+*🌱 I’m currently working on the Odin Project
+* 💬 Ask me about my University experiences, Frontend Development, or my projects!
+* 📞 Contact me: rickyrathod3425@gmail.com
+* 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
+
+## 💻 Technologies and Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?&logo=css3)
+![Git](https://img.shields.io/badge/Git-000?&logo=git)
+
 
 <!--
 **RickyRathod/RickyRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +22,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
