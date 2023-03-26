@@ -2,7 +2,7 @@
 
 
 # 📖 About Me
-*🌱 I’m currently working on the Odin Project
+* 🌱 I’m currently working on the Odin Project
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: rickyrathod3425@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
