@@ -12,7 +12,7 @@
 </div>
   <h2 align="center">Languages and Tools:</h2>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,git,github,vscode,ps,discord,matlab&perline=11">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,git,github,vscode,ps,discord,matlab">
   </p>
   <h2 align="center">GitHub Stats:</h3>
 <div align="center">
