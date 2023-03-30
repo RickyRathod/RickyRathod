@@ -7,10 +7,10 @@
 * 📞 Contact me: rickyrathod3425@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
 
-## 💻 Technologies and Languages
+
 
 </div>
-  <h2 align="center">Languages and Tools:</h2>
+  <h2 align="center">💻 Technologies and Languages:</h2>
   <p align="center"> 
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,git,github,vscode,ps,discord,matlab">
   </p>
