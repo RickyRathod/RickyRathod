@@ -13,6 +13,7 @@
   </p>
   <h2 align="center">GitHub Stats:</h3>
 <div align="center">
+<p> <img src="https://komarev.com/ghpvc/?username=RickyRathod&style=for-the-badge&color=0a2647"> </p>
 
 <!--
 **RickyRathod/RickyRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
