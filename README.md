@@ -1,6 +1,6 @@
 ![Lull@ waneella](https://user-images.githubusercontent.com/123428369/221057193-582ef11e-41b1-416f-8b29-63113e53f7f0.gif)
 
-# 📖 About Me
+# 📖 Hi! I'm Ricky,
 * 🌱 I’m currently working on the Odin Project
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: rickyrathod3425@gmail.com
