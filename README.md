@@ -1,7 +1,7 @@
 ![Lull@ waneella](https://user-images.githubusercontent.com/123428369/221057193-582ef11e-41b1-416f-8b29-63113e53f7f0.gif)
 
 # 📖 Hi! I'm Ricky,
-* 🌱 I’m currently re-learning Python on W3Shool's along with C++
+* 🌱 I’m currently working on hardware + software related projects
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: rickyrathod3425@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
